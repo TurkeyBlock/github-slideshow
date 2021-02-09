@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"It's 11pm and I'm still drinking coffee. Gods, please help."
 Use the left arrow to go back!
